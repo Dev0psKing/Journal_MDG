@@ -1,4 +1,4 @@
-# 🌍 A Critical Evaluation of the IMF, World Bank, and MDGs
+U78# 🌍 A Critical Evaluation of the IMF, World Bank, and MDGs
 
 ## Institutional Features, Global Criticisms, and the Road to Sustainable Development
 
@@ -97,7 +97,7 @@ The journal is backed by over 20 global policy documents, peer-reviewed articles
 
 **Uwabor Collins**  
 📧 uwabor@zohomail.com 
-🌐 [LinkedIn](https://www.linkedin.com/in/collins-uwabor 
+🌐 [LinkedIn](https://www.linkedin.com/in/collins-uwabor
 ---
 
 ## 🪪 License
