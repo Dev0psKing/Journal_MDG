@@ -97,7 +97,7 @@ The journal is backed by over 20 global policy documents, peer-reviewed articles
 
 **Uwabor Collins**  
 📧 uwabor@zohomail.com 
-🌐 [LinkedIn](https://www.linkedin.com/in/collins-uwabor
+🌐 [LinkedIn](https://www.linkedin.com/in/collins-uwabor) 
 ---
 
 ## 🪪 License
