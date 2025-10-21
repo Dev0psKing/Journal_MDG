@@ -2,6 +2,7 @@ U78# 🌍 A Critical Evaluation of the IMF, World Bank, and MDGs
 
 ## Institutional Features, Global Criticisms, and the Road to Sustainable Development
 
+
 ### 📄 Overview
 This project presents a critical evaluation of the roles played by the **International Monetary Fund (IMF)** and the **World Bank Group** within the context of the **Millennium Development Goals (MDGs)** and their evolution into the **Sustainable Development Goals (SDGs)**. The journal assesses institutional strengths and criticisms, offers insights into policy impact, and proposes pathways toward more inclusive and sustainable global development.
 
